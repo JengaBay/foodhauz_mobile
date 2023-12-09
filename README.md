@@ -15,10 +15,10 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">Food Hauz Mobile</h3>
 
   <p align="center">
-    project_description
+    This is a mobile application that helps bridge the gap betwee food donors and the people who need food
     <br />
     <a href="https://github.com/JengaBay/foodhauz_mobile"><strong>Explore the docs »</strong></a>
     <br />
@@ -63,9 +63,9 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-<img src='https://github.com/WataruMaeda/react-native-boilerplate/blob/main/__DELELE_ME__/banner.svg' width='400'>
+Demo will be added soon
+<!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
+<!-- <img src='https://github.com/WataruMaeda/react-native-boilerplate/blob/main/__DELELE_ME__/banner.svg' width='400'> -->
 
 <!-- <img src='https://github.com/WataruMaeda/react-native-boilerplate/blob/main/__DELELE_ME__/demo.gif' width='32%'> -->
 
