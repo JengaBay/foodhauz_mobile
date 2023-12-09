@@ -208,9 +208,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Juliana Sau - [@juliana_sau](https://twitter.com/juliana_sau) - julienyange@gmail.com
-Elijah Mutemi - [@juliana_sau](https://twitter.com/njeveh) - njeveh@gmail.com
-John Gimase - [@juliana_sau](https://github.com/JK11751) - kgimase@gmail.com
+Juliana Sau - [@juliana_sau](https://twitter.com/juliana_sau) - julienyange@gmail.com <br/>
+Elijah Mutemi - [@juliana_sau](https://twitter.com/njeveh) - njeveh@gmail.com <br/>
+John Gimase - [@juliana_sau](https://github.com/JK11751) - kgimase@gmail.com <br/>
 
 Project Link: [https://github.com/JengaBay/foodhauz_mobile](https://github.com/JengaBay/foodhauz_mobile)
 
